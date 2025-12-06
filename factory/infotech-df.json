@@ -1,0 +1,9 @@
+{
+	"name": "infotech-df",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "85c598cd-d042-4897-8006-0005cf1d70bb",
+		"tenantId": "d871f80a-a5d7-4d02-a9cd-070100576692"
+	}
+}
